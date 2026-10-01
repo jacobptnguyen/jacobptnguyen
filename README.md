@@ -12,7 +12,6 @@
 </p>
 
 I build things that take a step out of someone's day. **AutoFit** turns a raw CSV into a fitted model with no ML expertise, and two of my apps replaced a local salon's paper appointment book and color-swatch binder.
-
 ## 🚀 Featured projects
 
 <table>
@@ -21,12 +20,14 @@ I build things that take a step out of someone's day. **AutoFit** turns a raw CS
       <a href="https://auto-fit-pi.vercel.app"><img src="https://raw.githubusercontent.com/jacobptnguyen/jacob-nguyen-portfolio/main/public/images/autofit.png" alt="AutoFit data-quality score and model results"></a>
       <h3><a href="https://github.com/jacobptnguyen/AutoFit">AutoFit</a></h3>
       Claude picks the target, predictors, model, and metrics from a raw CSV, then fits it and scores the data quality.<br>
+      <a href="https://auto-fit-pi.vercel.app"><b>▶ Live demo</b></a> · <a href="https://github.com/jacobptnguyen/AutoFit">Code</a><br>
       <sub>Next.js · TypeScript · Flask · scikit-learn · Claude API</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://saloncalendar.vercel.app"><img src="https://raw.githubusercontent.com/jacobptnguyen/jacob-nguyen-portfolio/main/public/images/salon-calendar.png" alt="Salon Calendar month view"></a>
       <h3><a href="https://github.com/jacobptnguyen/salon_calendar">Salon Calendar</a></h3>
       75+ real appointments on one shared calendar that replaced a salon's paper books, synced live across devices.<br>
+      <a href="https://saloncalendar.vercel.app"><b>▶ Live demo</b></a> · <a href="https://github.com/jacobptnguyen/salon_calendar">Code</a><br>
       <sub>React · Vite · Tailwind · Supabase · PostgreSQL</sub>
     </td>
   </tr>
@@ -35,12 +36,14 @@ I build things that take a step out of someone's day. **AutoFit** turns a raw CS
       <a href="https://sounding-two.vercel.app"><img src="https://raw.githubusercontent.com/jacobptnguyen/jacob-nguyen-portfolio/main/public/images/sounding.jpg" alt="Sounding home screen"></a>
       <h3><a href="https://github.com/jacobptnguyen/sounding">Sounding</a></h3>
       Describe a sea creature in plain words. Claude proposes species, WoRMS verifies them, iNaturalist supplies the photo.<br>
+      <a href="https://sounding-two.vercel.app"><b>▶ Live demo</b></a> · <a href="https://github.com/jacobptnguyen/sounding">Code</a><br>
       <sub>JavaScript · Claude API · GSAP · OGL</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://pseudofy-gn4q.vercel.app"><img src="https://raw.githubusercontent.com/jacobptnguyen/jacob-nguyen-portfolio/main/public/images/pseudofy.png" alt="pseudofy grading a repo"></a>
       <h3><a href="https://github.com/jacobptnguyen/pseudofy">pseudofy</a></h3>
       Rebuild a repo's file tree from memory and get graded against the real code.<br>
+      <a href="https://pseudofy-gn4q.vercel.app"><b>▶ Live demo</b></a> · <a href="https://github.com/jacobptnguyen/pseudofy">Code</a><br>
       <sub>Next.js · TypeScript · Claude API · Zod</sub>
     </td>
   </tr>
