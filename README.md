@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://jacob-nguyen-portfolio.vercel.app">Portfolio</a> |
-  <a href="https://www.linkedin.com/in/jacob-nguyen-138267262/">LinkedIn</a> |
-  <a href="mailto:jacobptnguyen@gmail.com">Email</a>
+  <a href="https://jacob-nguyen-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-jacob--nguyen--portfolio.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/jacob-nguyen-138267262/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:jacobptnguyen@gmail.com"><img src="https://img.shields.io/badge/Email-jacobptnguyen@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 I build things that take a step out of someone's day. **AutoFit** turns a raw CSV into a fitted model with no ML expertise, and two of my apps replaced a local salon's paper appointment book and color-swatch binder.
@@ -67,9 +67,8 @@ More on the [portfolio](https://jacob-nguyen-portfolio.vercel.app): salon menu (
 
 ## Tech
 
-**Languages:** JavaScript, TypeScript, Python, HTML/CSS<br>
-**Frontend:** React, Next.js, Tailwind CSS, Vite<br>
-**Backend:** Node.js, Express, Flask<br>
-**Data:** PostgreSQL, Supabase, MongoDB<br>
-**AI/ML:** Claude API, RAG, Ollama, scikit-learn, pandas, NumPy<br>
-**Tools:** Git, GitHub, Docker, Vercel, Sanity CMS
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nextjs,tailwind,vite,nodejs,express,flask,postgres,supabase,mongodb,docker,git,vercel" alt="Languages, frameworks, databases, and tools">
+</p>
+
+Also: Claude API, RAG, Ollama, scikit-learn, pandas, NumPy, Sanity CMS.
