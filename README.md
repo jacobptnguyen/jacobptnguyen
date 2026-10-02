@@ -61,7 +61,6 @@ More on the [portfolio](https://jacob-nguyen-portfolio.vercel.app): salon menu (
 | Project | Merged work |
 | --- | --- |
 | [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pulls?q=is%3Apr+author%3Ajacobptnguyen+is%3Amerged) | 4 PRs replacing brittle regex test assertions with behavior-based ones, plus curriculum wording and quiz fixes |
-| [Think Round](https://github.com/Think-Round-Inc/ThinkRound-New-Website/pulls?q=is%3Apr+author%3Ajacobptnguyen+is%3Amerged) | 3 PRs on the production Next.js/Sanity site: Communities section, schema field, ISR revalidation |
 | [Open Energy Dashboard](https://github.com/OpenEnergyDashboard/OED/pull/1721) | Deduplicated a Docker database setting via the shared compose variables |
 | [OpenRFM](https://github.com/kamalu-chioma/OpenRFM/pull/13) | Upload-requirements hint to prevent failed CSV uploads |
 
