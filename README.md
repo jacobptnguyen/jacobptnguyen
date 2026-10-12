@@ -29,7 +29,7 @@ I build things that take a step out of someone's day. **AutoFit** turns a raw CS
     <td width="40%" valign="middle"><img src="https://raw.githubusercontent.com/jacobptnguyen/jacob-nguyen-portfolio/main/public/images/salon-calendar.png" alt="Salon Calendar month view" width="320"></td>
     <td width="60%" valign="middle">
       <b>Salon Calendar</b><br>
-      75+ real appointments on one shared calendar that replaced a salon's paper books, synced live across devices.<br>
+      125+ real appointments on one shared calendar that replaced a salon's paper books, synced live across devices.<br>
       <a href="https://saloncalendar.vercel.app">Live demo</a> · <a href="https://github.com/jacobptnguyen/salon_calendar">Code</a><br>
       <sub>React, Vite, Tailwind, Supabase, PostgreSQL</sub>
     </td>
@@ -60,8 +60,8 @@ More on the [portfolio](https://jacob-nguyen-portfolio.vercel.app): salon menu (
 
 | Project | Merged work |
 | --- | --- |
-| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pulls?q=is%3Apr+author%3Ajacobptnguyen+is%3Amerged) | 4 PRs replacing brittle regex test assertions with behavior-based ones, plus curriculum wording and quiz fixes |
-| [Open Energy Dashboard](https://github.com/OpenEnergyDashboard/OED/pull/1721) | Deduplicated a Docker database setting via the shared compose variables |
+| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pulls?q=is%3Apr+author%3Ajacobptnguyen+is%3Amerged) | Replaced brittle regex test assertions with behavior- and AST-based checks across 4 workshops and labs, corrected wrong definitions in the Graphs and Trees review, plus curriculum wording and quiz fixes |
+| [Open Energy Dashboard](https://github.com/OpenEnergyDashboard/OED/pulls?q=is%3Apr+author%3Ajacobptnguyen+is%3Amerged) | Deduplicated a Docker database setting via the shared compose variables, and eliminated a recurring webpack build warning |
 | [OpenRFM](https://github.com/kamalu-chioma/OpenRFM/pull/13) | Upload-requirements hint to prevent failed CSV uploads |
 
 ## Tech
